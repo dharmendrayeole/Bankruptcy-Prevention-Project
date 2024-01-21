@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct 11 22:39:07 2023
-
-@author: saura
-"""
-
 import streamlit as st
 import joblib
 import numpy as np
